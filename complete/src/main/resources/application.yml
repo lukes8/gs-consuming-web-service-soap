@@ -4,3 +4,5 @@ logging:
     org:
       springframework:
         ws: DEBUG
+
+# USEFUL NOTE: here we can simply change DEBUG level for particular package to get more info without putting log messages in code
